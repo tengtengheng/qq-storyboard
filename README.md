@@ -1,0 +1,7 @@
+
+这个一个qq界面的布局
+步骤：
+1. 设置window的大小，和移动。
+2. 添加box和containerview到view中
+3. 删除containerview的原view，添加splitview。
+4. 对splitview中的两个view添加box控制size及约束。
